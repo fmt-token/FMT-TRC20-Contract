@@ -1,1 +1,1 @@
-# TRC20-Contract-Template
+# FMT-TRC20-Contract
